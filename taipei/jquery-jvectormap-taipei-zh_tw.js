@@ -1,4 +1,4 @@
-/*! ./jquery-jvectormap-taipei-zh_tw.js
+/*! jquery-jvectormap-taipei-zh_tw.js
  *  Map of Taipei for jvectormap
  *  Reference: http://zh.wikipedia.org/wiki/File:Taipei_Districts.PNG
  *  Create by Qing-Cheng Li (qcl, qingcheng.li at qcl.tw)
